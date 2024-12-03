@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Maggie (any pronouns).
+- 👋 Hi, I’m Maggie H (any pronouns).
 - 👀 I’m interested in creating documentation that eases users' anxieties. I also want to learn how to code better!
-- 🌱 I’m currently learning how to use Git and Github. I'm refreshing my knowledge on HTML, CSS, and Python with a dash of C++.
-- 💞️ I’m looking to collaborate on open source projects related to documentation, game development tooling, and experimental entertainment.
+- 🌱 I’m currently working to improve my skills with Git and Github. I'm refreshing my knowledge on HTML, CSS, and Python with a dash of C++.
+- 💞️ I’m looking to collaborate on open source projects related to documentation, game development tooling, and experimental entertainment. I currently lend some of my spare time with The Good Docs Project as part of their template editorial team.
 - 📫 How to reach me? Discord, Twitter, BlueSky @MagzThaWriter.
 
 <!---
